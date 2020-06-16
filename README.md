@@ -11,3 +11,4 @@
 |242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/)|[Solution](../master/242.%20Valid%20Anagram%20/index.js)|Easy|
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Solution](../master/169.%20Majority%20Element/index.js)|Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Solution](../master/1480.%20Running%20Sum%20of%201d%20Array/index.js)|Easy|
+|1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Solution](../master/1470.%Shuffle%20the%20Array/index.js)|Easy|
