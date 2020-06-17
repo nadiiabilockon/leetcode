@@ -12,3 +12,4 @@
 |169|[Majority Element](https://leetcode.com/problems/majority-element/)|[Solution](../master/169.%20Majority%20Element/index.js)|Easy|
 |1480|[Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)|[Solution](../master/1480.%20Running%20Sum%20of%201d%20Array/index.js)|Easy|
 |1470|[Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/)|[Solution](../master/1470.%20Shuffle%20the%20Array/index.js)|Easy|
+|1342|[Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)|[Solution](../master/1342.%20Number%20Nof%20NSteps%20Nto%20NReduce%20Na%20NNumber%20Nto%20NZero/index.js)|Easy|
