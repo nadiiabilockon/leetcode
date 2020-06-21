@@ -16,3 +16,4 @@
 |977|[Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)|[Solution](../master/977.%20Squares%20of%20a%20Sorted%20Array/index.js)|Easy|
 |268|[Missing Number](https://leetcode.com/problems/missing-number/)|[Solution](../master/268.%20Missing%20Number/index.js)|Easy|
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Solution](../master/557.%20Reverse%20Words%20in%20a%20String%20III/index.js)|Easy|
+|1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Solution](../master/1221.%20Split%20a%20String%20in%20Balanced%20Strings/index.js)|Easy|
