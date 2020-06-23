@@ -18,3 +18,4 @@
 |557|[Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/)|[Solution](../master/557.%20Reverse%20Words%20in%20a%20String%20III/index.js)|Easy|
 |1221|[Split a String in Balanced Strings](https://leetcode.com/problems/split-a-string-in-balanced-strings/)|[Solution](../master/1221.%20Split%20a%20String%20in%20Balanced%20Strings/index.js)|Easy|
 |824|[Goat Latin](https://leetcode.com/problems/goat-latin/)|[Solution](../master/824.%20Goat%20Latin/index.js)|Easy|
+|49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](../master/49.%20Group%20Anagrams/index.js)|Medium|
