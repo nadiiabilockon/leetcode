@@ -20,3 +20,4 @@
 |824|[Goat Latin](https://leetcode.com/problems/goat-latin/)|[Solution](../master/824.%20Goat%20Latin/index.js)|Easy|
 |49|[Group Anagrams](https://leetcode.com/problems/group-anagrams/)|[Solution](../master/49.%20Group%20Anagrams/index.js)|Medium|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](../master/7.%20Reverse%20Integer/index.js)|Easy|
+|1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Solution](../master/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits/index.js)|Easy|
