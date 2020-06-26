@@ -22,3 +22,4 @@
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)|[Solution](../master/7.%20Reverse%20Integer/index.js)|Easy|
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Solution](../master/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits/index.js)|Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Solution](../master/383.%20Ransom%20Note/index.js)|Easy|
+|1476|[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)|[Solution](../master/1476.%20Subrectangle%20Queries/index.js)|Medium|
