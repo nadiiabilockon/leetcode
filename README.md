@@ -24,3 +24,4 @@
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Solution](../master/383.%20Ransom%20Note/index.js)|Easy|
 |1476|[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)|[Solution](../master/1476.%20Subrectangle%20Queries/index.js)|Medium|
 |1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Solution](../master/1486.%20XOR%20Operation%20in%20an%20Array/index.js)|Easy|
+|461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Solution](../master/461.%20Hamming%20Distance/index.js)|Easy|
