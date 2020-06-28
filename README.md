@@ -23,3 +23,4 @@
 |1295|[Find Numbers with Even Number of Digits](https://leetcode.com/problems/find-numbers-with-even-number-of-digits/)|[Solution](../master/1295.%20Find%20Numbers%20with%20Even%20Number%20of%20Digits/index.js)|Easy|
 |383|[Ransom Note](https://leetcode.com/problems/ransom-note/)|[Solution](../master/383.%20Ransom%20Note/index.js)|Easy|
 |1476|[Subrectangle Queries](https://leetcode.com/problems/subrectangle-queries/)|[Solution](../master/1476.%20Subrectangle%20Queries/index.js)|Medium|
+|1486|[XOR Operation in an Array](https://leetcode.com/problems/xor-operation-in-an-array/)|[Solution](../master/1486.%20XOR%20Operation%20in%20an%20Array/index.js)|Easy|
