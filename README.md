@@ -27,3 +27,4 @@
 |461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/)|[Solution](../master/461.%20Hamming%20Distance/index.js)|Easy|
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Solution](../master/771.%20Jewels%20and%20Stones/index.js)|Easy|
 |1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Solution](../master/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/index.js)|Easy|
+|844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Solution](../master/844.%20Backspace%20String%20Compare/index.js)|Easy|
