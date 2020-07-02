@@ -28,3 +28,4 @@
 |771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)|[Solution](../master/771.%20Jewels%20and%20Stones/index.js)|Easy|
 |1351|[Count Negative Numbers in a Sorted Matrix](https://leetcode.com/problems/count-negative-numbers-in-a-sorted-matrix/)|[Solution](../master/1351.%20Count%20Negative%20Numbers%20in%20a%20Sorted%20Matrix/index.js)|Easy|
 |844|[Backspace String Compare](https://leetcode.com/problems/backspace-string-compare/)|[Solution](../master/844.%20Backspace%20String%20Compare/index.js)|Easy|
+|1047|[Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)|[Solution](../master/1047.%20Remove%20All%20Adjacent%20Duplicates%20In%20String/index.js)|Easy|
