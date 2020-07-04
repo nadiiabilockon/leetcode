@@ -39,7 +39,7 @@
 
 // Solution
 
-var CustomStack = function (maxSize) {
+const CustomStack = function (maxSize) {
     this.maxSize = maxSize;
     this.stack = []
 };
