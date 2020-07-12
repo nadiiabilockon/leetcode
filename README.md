@@ -35,3 +35,5 @@
 |1185|[Day of the Week](https://leetcode.com/problems/day-of-the-week/)|[Solution](../master/1185.%20Day%20of%20the%20Week/index.js)|Easy|
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](../master/344.%20Reverse%20String/index.js)|Easy|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[Solution](../master/137.%20Single%20Number%20II/index.js)|Medium|
+%20Day%20of%20the%20Week/index.js)|Easy|
+|58|[Length of Last Word](https://leetcode.com/problems/reverse-string/)|[Solution](../master/58.%20Length%20of%20Last%20Word/index.js)|Easy|
