@@ -36,4 +36,5 @@
 |344|[Reverse String](https://leetcode.com/problems/reverse-string/)|[Solution](../master/344.%20Reverse%20String/index.js)|Easy|
 |137|[Single Number II](https://leetcode.com/problems/single-number-ii/)|[Solution](../master/137.%20Single%20Number%20II/index.js)|Medium|
 %20Day%20of%20the%20Week/index.js)|Easy|
-|58|[Length of Last Word](https://leetcode.com/problems/reverse-string/)|[Solution](../master/58.%20Length%20of%20Last%20Word/index.js)|Easy|
+|58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word//)|[Solution](../master/58.%20Length%20of%20Last%20Word/index.js)|Easy|
+|125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Solution](../master/125.%20Valid%20Palindrome/index.js)|Easy|
