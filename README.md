@@ -38,4 +38,5 @@
 |58|[Length of Last Word](https://leetcode.com/problems/length-of-last-word//)|[Solution](../master/58.%20Length%20of%20Last%20Word/index.js)|Easy|
 |125|[Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)|[Solution](../master/125.%20Valid%20Palindrome/index.js)|Easy|
 |1357|[Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/)|[Solution](../master/1357.%20Apply%20Discount%20Every%20n%20Orders/index.js)|Medium|
-|1347|[Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)|[Solution](../master/1347.%20Minimum%20Number%20of%20Stepss/index.js)|Medium|
+|1347|[Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)|[Solution](../master/1347.%20Minimum%20Number%20of%20Steps/index.js)|Medium|
+|155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Solution](../master/155.%20Min%20Stack/index.js)|Easy|
