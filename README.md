@@ -40,3 +40,4 @@
 |1357|[Apply Discount Every n Orders](https://leetcode.com/problems/apply-discount-every-n-orders/)|[Solution](../master/1357.%20Apply%20Discount%20Every%20n%20Orders/index.js)|Medium|
 |1347|[Minimum Number of Steps to Make Two Strings Anagram](https://leetcode.com/problems/minimum-number-of-steps-to-make-two-strings-anagram/)|[Solution](../master/1347.%20Minimum%20Number%20of%20Steps/index.js)|Medium|
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Solution](../master/155.%20Min%20Stack/index.js)|Easy|
+|1460|[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)|[Solution](../master/1460.%20Make%20Two%20Arrays%20Equal/index.js)|Easy|
