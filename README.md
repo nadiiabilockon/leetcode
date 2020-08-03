@@ -42,3 +42,4 @@
 |155|[Min Stack](https://leetcode.com/problems/min-stack/)|[Solution](../master/155.%20Min%20Stack/index.js)|Easy|
 |1460|[Make Two Arrays Equal by Reversing Sub-arrays](https://leetcode.com/problems/make-two-arrays-equal-by-reversing-sub-arrays/)|[Solution](../master/1460.%20Make%20Two%20Arrays%20Equal/index.js)|Easy|
 |1455|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)|[Solution](../master/1455.%20Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix/index.js)|Easy|
+|705|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Solution](../master/705.%20Design%20HashSet/index.js)|Easy|
