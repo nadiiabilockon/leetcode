@@ -44,3 +44,4 @@
 |1455|[Check If a Word Occurs As a Prefix of Any Word in a Sentence](https://leetcode.com/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)|[Solution](../master/1455.%20Check%20If%20a%20Word%20Occurs%20As%20a%20Prefix/index.js)|Easy|
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Solution](../master/705.%20Design%20HashSet/index.js)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](../master/28.%20Implement%20strStr()/index.js)|Easy|
+|283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Solution](../master/283.%20Move%20Zeroes/index.js)|Easy|
