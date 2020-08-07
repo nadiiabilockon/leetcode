@@ -45,3 +45,4 @@
 |705|[Design HashSet](https://leetcode.com/problems/design-hashset/)|[Solution](../master/705.%20Design%20HashSet/index.js)|Easy|
 |28|[Implement strStr()](https://leetcode.com/problems/implement-strstr/)|[Solution](../master/28.%20Implement%20strStr()/index.js)|Easy|
 |283|[Move Zeroes](https://leetcode.com/problems/move-zeroes/)|[Solution](../master/283.%20Move%20Zeroes/index.js)|Easy|
+|1426|[Counting Elements](https://leetcode.com/problems/counting-elements/)|[Solution](../master/1426.%20Counting%20Elements/index.js)|Easy|
