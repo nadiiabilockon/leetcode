@@ -48,3 +48,4 @@
 |1426|[Counting Elements](https://leetcode.com/problems/counting-elements/)|[Solution](../master/1426.%20Counting%20Elements/index.js)|Easy|
 |122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)|[Solution](../master/122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/index.js)|Easy|
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Solution](../master/20.%20Valid%20Parentheses/index.js)|Easy|
+|682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[Solution](../master/682.%20Baseball%20Game/index.js)|Easy|
