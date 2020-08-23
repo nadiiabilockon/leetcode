@@ -44,7 +44,7 @@ const calPoints = (ops) => {
 
         if (point === 'D') {
             let last = score[score.length - 1]
-            score.push(last + last)
+            score.push(last * 2)
         }
         else if (point === 'C') {
             score.pop()
