@@ -50,3 +50,4 @@
 |20|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)|[Solution](../master/20.%20Valid%20Parentheses/index.js)|Easy|
 |682|[Baseball Game](https://leetcode.com/problems/baseball-game/)|[Solution](../master/682.%20Baseball%20Game/index.js)|Easy|
 |442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/)|[Solution](../master/442.%20Find%20All%20Duplicates%20in%20an%20Array/index.js)|Medium|
+|27|[Remove Element](https://leetcode.com/problems/valid-parentheses/)|[Solution](../master/27.%20Remove%20Element/index.js)|Easy|
